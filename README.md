@@ -7,11 +7,11 @@
   </a>
 </div>
 <h1>
-  hey there
+  Hey there!!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 ### :man_technologist: About Me :
-* I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :book: I’m studying Computer Science Engineering .
 
 - :seedling: Exploring new technologies to provide solve real life problems.
