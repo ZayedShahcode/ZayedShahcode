@@ -16,7 +16,7 @@
  I am a Full Stack Web Developer from India.
 - :book: I’m studying Computer Science Engineering .
 
-- :seedling: Exploring new technologies to provide solve real life problems.
+- :seedling: Exploring new technologies to solve real life problems.
 
 - :zap: In my free time, I learn data structures and algorithms.
 
