@@ -20,7 +20,7 @@
 
 - :zap: In my free time, I learn data structures and algorithms.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Zayed-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zayed-shah-syed-723580282/)
+- :mailbox: How to reach me: <span style="color: blue; text-decoration: underline;">reachzayed@proton.me</span>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
