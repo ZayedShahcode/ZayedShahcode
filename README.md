@@ -43,3 +43,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 </div>
 
+### :trophy: My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZayedShahcode&show_icons=true&hide_title=true)
+
+### :mag_right: My Contributions
+![My Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=ZayedShahcode&layout=compact&hide_title=true)
+
+
