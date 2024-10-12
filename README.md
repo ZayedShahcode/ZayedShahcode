@@ -44,9 +44,7 @@
 </div>
 
 ### :trophy: My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZayedShahcode&show_icons=true&hide_title=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-### :mag_right: My Contributions
-![My Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=ZayedShahcode&layout=compact&hide_title=true)
 
 
