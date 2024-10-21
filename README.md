@@ -48,5 +48,7 @@
 ### :trophy: My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZayedShahcode&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
+[![An image of @zayedshahcode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zayedshahcode)](https://holopin.io/@zayedshahcode)
+
 
 
