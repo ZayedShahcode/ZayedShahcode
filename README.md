@@ -17,7 +17,9 @@
 - :book: I’m studying Computer Science Engineering .
 
 - :seedling: Exploring new technologies to solve real life problems.
-
+  
+- :school: I am currently learning SpringBoot
+  
 - :zap: In my free time, I learn data structures and algorithms.
 
 - :mailbox: How to reach me: <span style="color: blue; text-decoration: underline;">reachzayed@proton.me</span>
